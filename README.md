@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abemdxb
 - 👀 I’m interested in LLMOps and LLMs in general
-- 🌱 I’m currently learning everything about optimizing RAG (Q&A, multi-turn chatbots, and agents)
+- 🌱 I’m currently learning everything about optimizing LLM usecases (Q&A chatbots, multi-turn chatbots, and RAG agents), 
 - 💞️ I’m looking to collaborate on anyone building RAG tools for market research
 - 📫 How to reach me: email me at abemdxb@gmail.com
 
