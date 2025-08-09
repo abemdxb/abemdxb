@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abe
 
-**Product Manager → AI Engineer & ML Researcher in the making**  
+**Product Manager → AI Engineer and PM Hybrid in the making**  
 Blending 6+ years of product strategy with a growing portfolio in AI engineering, ML research, and MLOps.  
 Currently:
 - 🎓 Earning my **Stanford Graduate Certificate in Machine Learning**
